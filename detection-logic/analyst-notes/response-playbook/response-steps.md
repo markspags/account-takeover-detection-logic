@@ -24,4 +24,4 @@
 - Strengthen MFA protections
 - Add alerts for high-risk account changes
 - Increase monitoring for anomalous login sequences
-- Improve friction for risky sessions without over-impacting legitimate users
+- Improve friction for high risk sessions without over-impacting legitimate users
